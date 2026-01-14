@@ -32,7 +32,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Featured Projects
-- 🌍 **Global Air Quality & Health Impact Analysis**  
+-  **Global Air Quality & Health Impact Analysis**  
   End-to-end EDA on global air quality datasets to identify pollution trends, seasonal patterns, and relationships with respiratory health outcomes.
 
 *(More projects coming soon )*
