@@ -1,6 +1,6 @@
 # Hi, I'm Adhiraj Choudhary 
 
- B.Tech in Electronics & Communication Engineering from **NIT Delhi**  
+ B.Tech in Electronics & Communication Engineering from **National Institue of Technology Delhi**  
  Aspiring **AI / Machine Learning / Data Science** professional  
  Strong foundation in ****Mathematics, Physics and Data analysis**
 
